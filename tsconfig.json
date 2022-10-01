@@ -19,24 +19,9 @@
 		"jsx": "preserve",
 		"baseUrl": ".",
 		"paths": {
-			"@/components/*": [
-				"./components/*"
+			"@/*": [
+				"./*"
 			],
-			"@/styles/*": [
-				"./styles/*"
-			],
-			"@/constants/*": [
-				"./constants/*"
-			],
-			"@/hooks/*": [
-				"./hooks/*"
-			],
-			"@/models/*": [
-				"./models/*"
-			],
-			"@/utils/*": [
-				"./utils/*"
-			]
 		}
 	},
 	"include": [

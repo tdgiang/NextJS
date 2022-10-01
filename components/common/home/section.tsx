@@ -7,7 +7,7 @@ export interface SectionProps {}
 
 export function Section(props: SectionProps) {
 	return (
-		<Box my={{md:8,sx:4}  } >
+		<Box my={{md:8,sx:4}  }  py={2} >
 			<Container>
 				<Stack  textAlign={{xs:'center',md:'left'}} alignItems={{xs:'center',md:'flex-start'}}  direction={{md: 'row',xs:'column-reverse'}}>
 					<Box pr={4} >
