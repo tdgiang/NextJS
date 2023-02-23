@@ -14,8 +14,8 @@ const Home: NextPageWithLayout = () => {
 			<Seo 
 				data={{
 					title:"NextJS tutotials | DG",
-					description:"Turorial learn next js in 8 hour",
-					url:"https://github.com/tdgiang/NextJS",
+					description:"ShopMini range of women's and men's clothing for the latest fashion pieces you need to be adding-to-basket, with 100s of new styles landing every day!",
+					url:"http://mini.edhub.vn",
 					thumbnaiUrl:"https://res.cloudinary.com/dxz0pprqo/image/upload/v1664597001/nextjs/item3_vwhnvs.jpg"
 
 				}}
